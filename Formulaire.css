@@ -1,0 +1,83 @@
+body
+{
+    margin: auto;
+    width: 800px;
+}
+nav{
+    margin-top: 5px;
+    float: right;
+    width: 167px;
+    background-color: brown;
+    border: 1px;
+}
+.nav{
+    width: 167px;
+    border: 1px solid white;
+}
+.nn{
+    width: 167px;
+    text-align: center;
+}
+a{
+    color: white;
+}
+section{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: ghostwhite;
+    margin-right: 170px;
+    border: 1px solid brown;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+h3{
+    color: red;
+}
+.sec
+{
+    margin: 3px;
+    width: 600px;
+    background-color:gainsboro ;
+    text-align: center;
+}
+.tet{
+    padding-left: 5px;
+    height: 20px;
+    text-align:left ;
+    background-color: rgb(158, 154, 154);
+}
+.form
+{
+    background-color: gainsboro;
+}
+.ins
+{
+    color:white;
+    background-color: brown;
+    width: 100px;
+}
+input{
+    width: 200px;
+}
+header{
+    height: 60px;
+    background-color: brown;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.titre
+{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    background-color: brown;
+    text-align: center;
+    height: 40px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
